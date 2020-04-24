@@ -3,8 +3,9 @@ import java.util.Map;
 import java.util.ArrayList;
 /*
  * Original Python source can be found at https://github.com/vi3k6i5/flashtext
+ * this version is only a simple java version, doesn't has  all the functions of the python couterpart.
  * Based on the Aho-Corasick algorithm (https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
- * This Java Version written by Eden Ma
+ * This Java Version written by Eden Ma for study purpose
  */
 
 public class KeywordProcessor {
