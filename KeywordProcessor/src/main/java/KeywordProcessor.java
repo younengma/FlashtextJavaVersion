@@ -2,10 +2,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.ArrayList;
 /*
- * FlashTextJava - An idiomatic Java port of the Python library FlashText by Vikash Singh
  * Original Python source can be found at https://github.com/vi3k6i5/flashtext
  * Based on the Aho-Corasick algorithm (https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
- * This Java Version written by Youneng Ma
+ * This Java Version written by Eden Ma
  */
 
 public class KeywordProcessor {
